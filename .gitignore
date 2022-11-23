@@ -1,0 +1,6 @@
+resources/
+.vscode/ta*
+.vscode/la*
+*.exe
+main
+obselete.txt
